@@ -1,0 +1,25 @@
+{
+  "name": "zfjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wscjdsn2008/zfjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wscjdsn2008/zfjs/issues"
+  },
+  "homepage": "https://github.com/wscjdsn2008/zfjs#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.3",
+    "less": "^4.1.3"
+  }
+}
